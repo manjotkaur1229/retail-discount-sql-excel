@@ -5,7 +5,9 @@
 This project explores the impact of discounts on retail sales performance using SQL for data processing and Excel for interpretation and visualization. The analysis investigates discount prevalence, effects on sales and revenue, and how impact varies by category, region, seasonality, and competition.
 
 ---
+## Project Motivation
 
+This analysis investigates the common retail myth that “discounts always increase revenue and sales equally across all product categories and seasons.” By segmenting sales data, the project tests whether discounts truly drive revenue or simply increase volume, and if their effectiveness varies by category, region, or season.
 ## Workflow
 
 1. **SQL Analysis** (`retail_disct.sql`):
